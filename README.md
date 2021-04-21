@@ -16,7 +16,7 @@ Wanneer je de melding krijgt dat het schrijven van de image succesvol afgerond i
 Sluit ook de sensoren aan (bouw je de workshop van thuis lees dan [hier](./Hardware/README.md) de hardware vereisten). 
 Hieronder in het filmpje kan je bekijken hoe de hardware aangesloten moet worden:
 
-https://user-images.githubusercontent.com/61419261/115016198-0e3bc780-9eb5-11eb-883a-3f4bcf8660c9.mp4
+https://user-images.githubusercontent.com/45118788/115524133-1a959b00-a28e-11eb-8b4a-7658c0053554.mp4
 
 Stap 1.1 is nu succesvol afgerond. Je kan nu verder gaan met stap 1.2.
 
