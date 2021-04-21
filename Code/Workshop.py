@@ -102,11 +102,9 @@ async def help(ctx):
     await ctx.send(embed = embed)
 
 @bot.command()
-async def purge(ctx, number):
+async def purge(ctx, number : int):
     """verwijderen van x aantal  berichten"""
-    await ctx.channel.purge(limit=1)
-    number = int(number) #aantal berichten om te verwijderen
-    await ctx.channel.purge(limit=number)
+    await ctx.channel.purge(limit=number+1)
 
 @bot.command()
 async def foto(ctx):
