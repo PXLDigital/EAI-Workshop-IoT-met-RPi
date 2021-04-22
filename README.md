@@ -104,7 +104,7 @@ Wanneer je nu Putty opent kijg je normaal een scherm te zien zoals hieronder wee
 
 In de terminal zal je nu moeten inloggen. Als je niets aangepast hebt aan de inloggegevens zijn deze standaard als volgt:
 - login as: **pi**
-- password: **Raspberry**
+- password: **raspberry**
 
 Als je na het inloggen een veiligheidsmeling krijgt, beantwoordt deze dan met "Ja". Als nu onderstaand bericht in de terminal verschijnt ben je succescol ingelogd.
 ```bash
