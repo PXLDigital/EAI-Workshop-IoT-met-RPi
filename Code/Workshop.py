@@ -10,7 +10,7 @@ from subprocess import call
 from picamera import PiCamera, Color
 
 #Toegang token voor discord server
-TOKEN = 'ODIzMjA4NDc4MjU5NTQ0MDg0.YFdeow.Z54zEz5Gv09vQXruzKEz7XdOtT8'
+TOKEN = 'PlaatsTokenHier'
 description = '''IOT Workshop - Discord Bot'''
 bot = commands.Bot(command_prefix='?', description=description, help_command=None)
 #bot = commands.Bot(command_prefix='?', description=description)
